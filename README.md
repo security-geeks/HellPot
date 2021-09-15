@@ -6,6 +6,8 @@
 
 **SEE THIS ISSUE:**  https://github.com/yunginnanet/HellPot/issues/2
   
+**For the time being if you just plan on running HellPot, consider [downloading a release](https://github.com/yunginnanet/HellPot/releases).**
+  
 ---  
   
 HellPot is an endless honeypot that sends bots to hell. Based on [Heffalump](https://github.com/carlmjohnson/heffalump).   
